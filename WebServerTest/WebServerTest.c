@@ -8,6 +8,8 @@
 #include<stdlib.h>	//strlen
 #include<stdbool.h>
 #include<winsock.h>
+
+#pragma comment(lib, "ws2_32")
 #pragma warning(disable : 4996)
 
 #define MAX_REQU_LEN 40960

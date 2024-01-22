@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/WebClient/.vs/WebClient
+/WebClient/x64/Debug
+/WebServerTest/x64/Debug
+/WebClient/Debug
+/WebServerTest/Debug

@@ -8,6 +8,7 @@
 #include<stdlib.h>	//strlen
 #include<stdbool.h>
 #include<winsock.h>
+#pragma comment(lib, "ws2_32")
 #pragma warning(disable : 4996)
 
 #define PORT_NO         8000
